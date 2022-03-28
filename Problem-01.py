@@ -28,7 +28,6 @@ def countSubStr(S, n):
                     res = res + 1
     return res
 
-
 # Driver program to test above function
 print('\u0332'.join("INPUT:"))  # \u0332 is used to underline a text
 S = input("\n Enter the string: ");
@@ -42,3 +41,4 @@ for i in range(0, n):
             if (S[j] == 'a'):
                 k = S[i:j + 1]
                 print(k.split(","), end=" ")
+                
