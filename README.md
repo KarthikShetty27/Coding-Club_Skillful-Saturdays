@@ -18,6 +18,11 @@ Note: The starting and the ending "a" should be different and the size of sub-st
  Problem Output : <br>
 ![Problem-01](Images-Readme/1.jpg)
 
-
+2. [Pattern Printing]((https://github.com/KarthikShetty27/Coding-Club_Skillful-Saturdays/blob/main/Problem-02.py))
+* Problem Description :
+ Given an integer N, print an inverted isosceles triangle of stars such that the height of the triangle is N
+  Problem Input : 7
+  Problem Output : <br>
+ ![Problem-02](Images-Readme/2.jpg)
 
 <hr>
